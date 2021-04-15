@@ -8,7 +8,7 @@
     curl 'http://localhost:3000/api/v1/countries'
 ```
 Query based on id or country code
-see [https://github.com/typicode/json-server#filter](JSON-SERVER) for sort parameters
+see https://github.com/typicode/json-server#filter for sort parameters
 ```bash
     curl 'http://localhost:3000/api/v1/countries/bj'
 ```
@@ -47,7 +47,7 @@ see [https://github.com/typicode/json-server#filter](JSON-SERVER) for sort param
 ```
 
 Query based on id or country code
-see [https://github.com/typicode/json-server#filter](JSON-SERVER) for sort parameters
+see https://github.com/typicode/json-server#filter for sort parameters
 ```bash
     curl 'http://localhost:3000/api/v1/cities/ng'
 ```
