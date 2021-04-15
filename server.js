@@ -9,6 +9,8 @@ server.use(middlewares);
 
 server.use('/api/v1', routerV1);
 
+const port = process.env.PORT || 1945;
+
 server.listen(3000, () => {
   console.log('JSON Server is running');
 });

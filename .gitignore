@@ -17,8 +17,7 @@ package-lock.json
 /.idea
 /.history
 
-config/production.env
-.env.*
+
 .env.development.local
 .env.test.local
 .env.production.local
